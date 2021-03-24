@@ -1,0 +1,8 @@
+C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Release\ServiceScreenWindows.exe
+C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Release\ServiceScreenWindows.pdb
+C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\obj\Release\ServiceScreenWindows.ProjectInstaller.resources
+C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\obj\Release\ServiceScreenWindows.csproj.GenerateResource.cache
+C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\obj\Release\ServiceScreenWindows.csproj.CoreCompileInputs.cache
+C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\obj\Release\ServiceScreenWindows.exe
+C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\obj\Release\ServiceScreenWindows.pdb
+C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\obj\Release\ServiceScreenWindows.csprojAssemblyReference.cache

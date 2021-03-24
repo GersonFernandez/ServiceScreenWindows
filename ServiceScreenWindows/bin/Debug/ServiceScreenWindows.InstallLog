@@ -1,0 +1,442 @@
+﻿Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Desinstalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Quitando el origen de EventLog ScreenServiceAP.
+Excepción durante la desinstalación del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción al desinstalar. Esta excepción se pasará por alto y continuará el proceso de desinstalación. Sin embargo, puede que la aplicación no esté completamente desinstalada hasta que finalice la desinstalación.
+Desinstalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Quitando el origen de EventLog ScreenServiceAP.
+Excepción durante la desinstalación del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción al desinstalar. Esta excepción se pasará por alto y continuará el proceso de desinstalación. Sin embargo, puede que la aplicación no esté completamente desinstalada hasta que finalice la desinstalación.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Excepción durante la fase de retroceso al estado original del instalador System.ServiceProcess.ServiceProcessInstaller.
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+El servicio ScreenServiceAP se ha instalado correctamente.
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Confirmando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Desinstalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Quitando el origen de EventLog ScreenServiceAP.
+Se está quitando el servicio ScreenServiceAP del sistema...
+El servicio ScreenServiceAP se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+El servicio ScreenServiceAP se ha instalado correctamente.
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Confirmando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Desinstalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Quitando el origen de EventLog ScreenServiceAP.
+Se está quitando el servicio ScreenServiceAP del sistema...
+El servicio ScreenServiceAP se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Desinstalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Quitando el origen de EventLog ScreenServiceAP.
+Advertencia: el origen ScreenServiceAP no está registrado en el equipo local.
+Se está quitando el servicio ScreenServiceAP del sistema...
+El servicio ScreenServiceAP se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+El servicio ScreenServiceAP se ha instalado correctamente.
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Confirmando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Desinstalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Quitando el origen de EventLog ScreenServiceAP.
+Se está quitando el servicio ScreenServiceAP del sistema...
+El servicio ScreenServiceAP se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+El servicio ScreenServiceAP se ha instalado correctamente.
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Confirmando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Desinstalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Quitando el origen de EventLog ScreenServiceAP.
+Se está quitando el servicio ScreenServiceAP del sistema...
+El servicio ScreenServiceAP se ha quitado correctamente del sistema.
+Intento de detener el servicio ScreenServiceAP.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Deshaciendo ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Restaurando el registro de eventos al estado anterior para el origen ScreenServiceAP.
+Instalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Instalando el servicio ScreenServiceAP...
+El servicio ScreenServiceAP se ha instalado correctamente.
+Creando el origen de EventLog ScreenServiceAP en el registro Application...
+Confirmando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Desinstalando ensamblado 'C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.InstallLog
+   assemblypath = C:\Users\gerson\source\repos\ServiceScreenWindows\ServiceScreenWindows\bin\Debug\ServiceScreenWindows.exe
+Quitando el origen de EventLog ScreenServiceAP.
+Se está quitando el servicio ScreenServiceAP del sistema...
+El servicio ScreenServiceAP se ha quitado correctamente del sistema.
